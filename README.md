@@ -9,6 +9,7 @@ Copied from repo subdirectory with command: `npx create-next-app nextjs-blog --u
 ### Deploying to Netlify
 - build command: `npm run build && npm run export`
 - build folder: `out/`
-Either use a netlify.toml or add those commands through Netlify UI
+
+Either use a netlify.toml or add those commands through Netlify UI (I did the former)
 
 This is a starter template for [Learn Next.js](https://nextjs.org/learn).
