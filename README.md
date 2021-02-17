@@ -7,6 +7,7 @@ Copied from repo subdirectory with command: `npx create-next-app nextjs-blog --u
 - more info if you want to clone a subdirectory: [https://stackoverflow.com/questions/600079/how-do-i-clone-a-subdirectory-only-of-a-git-repository/52269934#52269934](https://stackoverflow.com/questions/600079/how-do-i-clone-a-subdirectory-only-of-a-git-repository/52269934#52269934))
 
 ### Deploying to Netlify
+- see it here: [https://first-nextjs-blog-0791.netlify.app/](https://first-nextjs-blog-0791.netlify.app/)
 - build command: `npm run build && npm run export`
 - build folder: `out/`
 
