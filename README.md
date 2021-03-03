@@ -8,6 +8,7 @@ Copied from repo subdirectory with command: `npx create-next-app nextjs-blog --u
 
 ### Deploying to Netlify
 - see it here: [https://first-nextjs-blog-0791.netlify.app/](https://first-nextjs-blog-0791.netlify.app/)
+- add export command to package.json scripts - `"export": "next export"`
 - build command: `npm run build && npm run export`
 - build folder: `out/`
 
